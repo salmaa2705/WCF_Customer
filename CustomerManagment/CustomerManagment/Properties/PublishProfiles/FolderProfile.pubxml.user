@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Salma.Mouelhi\Desktop\Publish</_PublishTargetUrl>
+    <History>True|2024-02-14T16:24:00.6164528Z;True|2024-02-14T16:52:49.9924606+01:00;True|2024-02-14T16:51:37.5129477+01:00;True|2024-02-14T11:32:59.9137157+01:00;True|2024-02-14T11:31:21.3048142+01:00;True|2024-02-14T11:31:00.2675413+01:00;True|2024-02-14T11:22:02.8170884+01:00;True|2024-02-14T11:15:08.8940308+01:00;True|2024-02-14T11:03:24.4063106+01:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/CustomerManagment.dll">
+      <publishTime>02/14/2024 11:32:59</publishTime>
+    </File>
+    <File Include="bin/CustomerManagment.pdb">
+      <publishTime>02/14/2024 11:32:59</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>08/08/2012 19:00:50</publishTime>
+    </File>
+    <File Include="bin/log4net.dll">
+      <publishTime>07/25/2022 09:40:06</publishTime>
+    </File>
+    <File Include="bin/Serilog.dll">
+      <publishTime>10/11/2023 13:41:42</publishTime>
+    </File>
+    <File Include="bin/Serilog.Formatting.Compact.dll">
+      <publishTime>09/11/2023 07:54:52</publishTime>
+    </File>
+    <File Include="bin/Serilog.Sinks.Console.dll">
+      <publishTime>11/28/2023 21:31:56</publishTime>
+    </File>
+    <File Include="bin/Serilog.Sinks.File.dll">
+      <publishTime>06/25/2021 10:00:44</publishTime>
+    </File>
+    <File Include="bin/Serilog.Sinks.File.pdb">
+      <publishTime>06/25/2021 10:00:44</publishTime>
+    </File>
+    <File Include="bin/Serilog.Sinks.PeriodicBatching.dll">
+      <publishTime>09/27/2022 10:05:50</publishTime>
+    </File>
+    <File Include="bin/Serilog.Sinks.Seq.dll">
+      <publishTime>11/15/2023 03:54:42</publishTime>
+    </File>
+    <File Include="bin/System.Buffers.dll">
+      <publishTime>02/19/2020 11:05:18</publishTime>
+    </File>
+    <File Include="bin/System.Diagnostics.DiagnosticSource.dll">
+      <publishTime>02/16/2023 01:55:30</publishTime>
+    </File>
+    <File Include="bin/System.Memory.dll">
+      <publishTime>08/05/2022 05:31:02</publishTime>
+    </File>
+    <File Include="bin/System.Numerics.Vectors.dll">
+      <publishTime>05/15/2018 15:29:44</publishTime>
+    </File>
+    <File Include="bin/System.Runtime.CompilerServices.Unsafe.dll">
+      <publishTime>10/23/2021 01:40:18</publishTime>
+    </File>
+    <File Include="DAL/Model1.edmx.diagram">
+      <publishTime>02/09/2024 11:34:26</publishTime>
+    </File>
+    <File Include="Service1.svc">
+      <publishTime>02/08/2024 15:02:59</publishTime>
+    </File>
+    <File Include="Services/CustomerService/customerService.svc">
+      <publishTime>02/08/2024 15:03:36</publishTime>
+    </File>
+    <File Include="Services/MainService/Service1.svc">
+      <publishTime>02/08/2024 15:02:59</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
